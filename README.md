@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EE82EE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fernanda+Silva;I'm+23+years+old;I'm+from+Brazil;I'm+graduating+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fersilva12&bg_color=2f282c&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssantosfer&bg_color=2f282c&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fersilva12&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=EE82EE&text_color=c9d1d9&bg_color=0d1117" alt="Fernanda Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fersilva12&layout=compact&hide_border=true&title_color=EE82EE&text_color=EE82EE&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ssantosfer&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=EE82EE&text_color=c9d1d9&bg_color=0d1117" alt="Fernanda Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssantosfer&layout=compact&hide_border=true&title_color=EE82EE&text_color=EE82EE&bg_color=0d1117" />
 </div>
 
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Fersilva12}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ssantosfer}/count.svg" /></p> 
 <br>
 </div>
 
